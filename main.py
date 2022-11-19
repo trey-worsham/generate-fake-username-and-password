@@ -35,3 +35,4 @@ def generate_username_and_password():
 			pass
 		else:
 			generate_username_and_password()
+generate_username_and_password()
